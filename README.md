@@ -1,5 +1,5 @@
 # Stacking Sats Tournament 
-Co-hosted by Trilemma Foundation and Strategy (Nasdaq: MSTR)
+Co-hosted by [Strategy](https://www.strategy.com/) (Nasdaq: MSTR) and [Trilemma Foundation](https://www.trilemma.foundation/)
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
