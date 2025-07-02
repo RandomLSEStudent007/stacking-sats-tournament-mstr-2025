@@ -1,5 +1,5 @@
-# stacking-sats-tournament-mstr-2025
-Tournament co-hosted by Trilemma Foundation and Strategy (Nasdaq: MSTR)
+# Stacking Sats Tournament 
+Co-hosted by Trilemma Foundation and Strategy (Nasdaq: MSTR)
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
