@@ -20,8 +20,6 @@ Co-hosted by Trilemma Foundation and Strategy (Nasdaq: MSTR)
 > A global, free, and remote tournament where talent competes to push the frontier of Bitcoin insight.
 > Participants compete by building data-driven models that beat naive DCA across a fixed time and budget.
 
-# [Trilemma Foundation](https://www.trilemma.foundation/) x [Strategy](https://www.strategy.com/) Stacking Sats Tournament
-
 **Hosted on [Hypertrial.ai](https://www.hypertrial.ai/bitcoin-arena/challenge/bitcoin)**
 
 ### Tournament Overview
