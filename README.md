@@ -33,7 +33,7 @@ This is your starting point for the Stacking Sats Tournament, hosted by Trilemma
 
 ## 📚 Tutorial Outline
 
-1. `Intro.ipynb` – Motivating the Problem  
+1. [`Intro.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/tutorials/1.%20Intro.ipynb) – Motivating the Problem  
 2. `Problem Statement.ipynb`  
 3. `Advanced Problem Statement.ipynb` (Optional)  
 4. `Bring_Your_Own_Data.ipynb`  
