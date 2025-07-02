@@ -34,12 +34,15 @@ This is your starting point for the Stacking Sats Tournament, hosted by Trilemma
 ## 📚 Tutorial Outline
 
 1. [`Intro.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/tutorials/1.%20Intro.ipynb) – Motivating the Problem  
-2. [`Problem Statement.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/tutorials/2.%20Problem%20Statement.ipynb)  
-3. [`Problem Statement Deep Dive.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/tutorials/3.%20Problem%20Statement%20Deep%20Dive.ipynb) (Optional)  
-4. `Bring_Your_Own_Data.ipynb`  
-5. `Virtual_Env_Setup.ipynb`  
-6. `Strategy_Development.ipynb`  
-7. `Strategy_Submission.ipynb`
+2. [`Problem_Statement.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/tutorials/2.%20Problem%20Statement.ipynb) – Understanding the Challenge  
+3. [`Problem_Statement_Deep_Dive.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/tutorials/3.%20Problem%20Statement%20Deep%20Dive.ipynb) *(Optional)*  
+4. [`Bring_Your_Own_Data`](https://github.com/hypertrial/stacking_sats_pipeline/blob/main/stacking_sats_pipeline/data/CONTRIBUTE.md) – Phase 1: Data Engineering
+
+**Coming Soon (Phase 2 – July 9 Launch):**
+
+5. `Virtual_Env_Setup.ipynb` – Environment Setup and Dependencies  
+6. `Strategy_Development.ipynb` – Building Your Bitcoin Accumulation Strategy  
+7. `Strategy_Submission.ipynb` – Finalizing and Uploading Your Submission
 
 ---
 
