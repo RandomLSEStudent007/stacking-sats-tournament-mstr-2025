@@ -18,4 +18,65 @@ Co-hosted by Trilemma Foundation and Strategy (Nasdaq: MSTR)
 
 > **Stacking Sats: Strategy x Trilemma Foundation Tournament**  
 > A global, free, and remote tournament where talent competes to push the frontier of Bitcoin insight.
-> Participants compete by building data-driven models that beat naive DCA across a fixed time and budget.  
+> Participants compete by building data-driven models that beat naive DCA across a fixed time and budget.
+
+# [Trilemma Foundation](https://www.trilemma.foundation/) x [Strategy](https://www.strategy.com/) Stacking Sats Tournament
+
+**Hosted on [Hypertrial.ai](https://www.hypertrial.ai/bitcoin-arena/challenge/bitcoin)**
+
+### Tournament Overview
+
+---
+
+This is your starting point for the Stacking Sats Tournament, hosted by Trilemma Foundation in partnership with Strategy (Nasdaq: MSTR). You'll find everything here: tournament goals, key deadlines, and step-by-step resources to help you build and submit your Bitcoin stacking strategy.
+
+
+
+---
+
+## 📚 Tutorial Outline
+
+1. `Intro.ipynb` – Motivating the Problem  
+2. `Problem Statement.ipynb`  
+3. `Advanced Problem Statement.ipynb` (Optional)  
+4. `Bring_Your_Own_Data.ipynb`  
+5. `Virtual_Env_Setup.ipynb`  
+6. `Strategy_Development.ipynb`  
+7. `Strategy_Submission.ipynb`
+
+---
+
+## 📅 Timeline
+
+| Phase                  | Start Date   | End Date     |
+|------------------------|--------------|--------------|
+| Data Engineering | Jun 28, 2025 | Jul 9, 2025  |
+| Model Development | Jul 9, 2025  | Jul 18, 2025 |
+
+---
+
+## 🧩 Phase 1: Data Engineering
+
+### 🎯 Objective
+
+Put on your Data Engineer hat and **Bring Your Own Data** by submitting a pull request (PR) to our data lake. Check out the [pipeline repo](https://github.com/hypertrial/stacking_sats_pipeline) to get started.
+
+Phase 1 isn’t a competition—it's a chance to contribute to an open source repo that will support thousands of tournament participants and capstone teams from top graduate STEM programs. See our [partners page](https://www.hypertrial.ai/partners) for a list of schools we collaborate with.
+
+*Phase 1 is optional, but we highly recommend contributing before jumping into Phase 2.*
+
+---
+
+## 🧩 Phase 2: Model Development
+
+### 🎯 Objective
+
+Submit the best-performing **Bitcoin stacking model** on [Hypertrial.ai](https://hypertrial.ai)
+
+### 🏆 Confirmed Prize 
+
+- **1 million sats**
+
+### 🎓 Confirmed Participation to Date
+
+- UBC, Georgia Tech, UCSD,
