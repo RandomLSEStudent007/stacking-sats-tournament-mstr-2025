@@ -36,7 +36,7 @@ This is your starting point for the Stacking Sats Tournament, hosted by Trilemma
 1. [`Intro.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/tutorials/1.%20Intro.ipynb) – Motivating the Problem  
 2. [`Problem_Statement.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/tutorials/2.%20Problem%20Statement.ipynb) – Understanding the Challenge  
 3. [`Problem_Statement_Deep_Dive.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/tutorials/3.%20Problem%20Statement%20Deep%20Dive.ipynb) *(Optional)*  
-4. [`Bring_Your_Own_Data`](https://github.com/hypertrial/stacking_sats_pipeline/blob/main/stacking_sats_pipeline/data/CONTRIBUTE.md) – Phase 1: Data Engineering
+4. [`Bring_Your_Own_Data`](https://github.com/hypertrial/stacking_sats_pipeline/blob/main/stacking_sats_pipeline/data/CONTRIBUTE.md) – Phase 1: Prerequisites
 
 **Coming Soon (Phase 2 – July 9 Launch):**
 
@@ -50,12 +50,12 @@ This is your starting point for the Stacking Sats Tournament, hosted by Trilemma
 
 | Phase                  | Start Date   | End Date     |
 |------------------------|--------------|--------------|
-| Data Engineering | Jun 28, 2025 | Jul 9, 2025  |
+| Prerequisites | Jun 28, 2025 | Jul 9, 2025  |
 | Model Development | Jul 9, 2025  | Jul 18, 2025 |
 
 ---
 
-## 🧩 Phase 1: Data Engineering
+## 🧩 Phase 1: Prerequisites
 
 ### 🎯 Objective
 
