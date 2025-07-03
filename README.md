@@ -51,7 +51,7 @@ This is your starting point for the Stacking Sats Tournament, hosted by Trilemma
 | Phase                  | Start Date   | End Date     |
 |------------------------|--------------|--------------|
 | Prerequisites | Jun 28, 2025 | Jul 9, 2025  |
-| Model Development | Jul 9, 2025  | Jul 18, 2025 |
+| Strategy Submission | Jul 9, 2025  | Jul 18, 2025 |
 
 ---
 
@@ -67,7 +67,7 @@ Phase 1 isn’t a competition; it's a chance to learn and contribute to an open 
 
 ---
 
-## 🧩 Phase 2: Model Development
+## 🧩 Phase 2: Strategy Submission
 
 ### 🎯 Objective
 
