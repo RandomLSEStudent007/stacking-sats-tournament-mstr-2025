@@ -59,9 +59,9 @@ This is your starting point for the Stacking Sats Tournament, hosted by Trilemma
 
 ### 🎯 Objective
 
-Put on your Data Engineer hat and **Bring Your Own Data** by submitting a pull request (PR) to our data lake. Check out the [pipeline repo](https://github.com/hypertrial/stacking_sats_pipeline) to get started.
+Learn about Stacking Sats and contribute to our data lake. Check out the [pipeline repo](https://github.com/hypertrial/stacking_sats_pipeline) to get started.
 
-Phase 1 isn’t a competition—it's a chance to contribute to an open source repo that will support thousands of tournament participants and capstone teams from top graduate STEM programs. See our [partners page](https://www.hypertrial.ai/partners) for a list of schools we collaborate with.
+Phase 1 isn’t a competition; it's a chance to learn and contribute to an open source repo that will support thousands of tournament participants and capstone teams from top graduate STEM programs. See our [partners page](https://www.hypertrial.ai/partners) for a list of schools we collaborate with.
 
 *Phase 1 is optional, but we highly recommend contributing before jumping into Phase 2.*
 
