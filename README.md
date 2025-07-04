@@ -38,7 +38,7 @@ This is your starting point for the Stacking Sats Tournament, hosted by Trilemma
 3. [`Problem_Statement_Deep_Dive.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/tutorials/3.%20Problem%20Statement%20Deep%20Dive.ipynb) *(Optional)*  
 4. [`Bring_Your_Own_Data`](https://github.com/hypertrial/stacking_sats_pipeline/blob/main/stacking_sats_pipeline/data/CONTRIBUTE.md) – Phase 1: Prerequisites
 
-**Coming Soon (Phase 2 – July 9 Launch):**
+**Coming Soon (Phase 2 – July 16 Launch):**
 
 5. `Virtual_Env_Setup.ipynb` – Environment Setup and Dependencies  
 6. `Strategy_Development.ipynb` – Building Your Bitcoin Accumulation Strategy  
@@ -50,8 +50,8 @@ This is your starting point for the Stacking Sats Tournament, hosted by Trilemma
 
 | Phase                  | Start Date   | End Date     |
 |------------------------|--------------|--------------|
-| Prerequisites | Jun 28, 2025 | Jul 9, 2025  |
-| Strategy Submission | Jul 9, 2025  | Jul 18, 2025 |
+| Prerequisites | Jun 28, 2025 | Jul 16, 2025  |
+| Strategy Submission | Jul 16, 2025  | Jul 25, 2025 |
 
 ---
 
