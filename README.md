@@ -79,4 +79,11 @@ Submit the best-performing **Bitcoin stacking model** on [Hypertrial.ai](https:/
 
 ### 🎓 Confirmed Participation to Date
 
-- `UBC`, `Georgia Tech`, `UCSD`
+
+- `University of British Columbia (UBC)`
+- `Georgia Institute of Technology (Georgia Tech)`
+- `University of California, San Diego (UCSD)`
+- `New York University (NYU)`
+- `University of California, Davis (UCD)`
+- `London School of Economics and Political Science (LSE)`
+- `Columbia University`
