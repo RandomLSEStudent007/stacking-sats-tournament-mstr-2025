@@ -169,8 +169,8 @@ def main():
     """Main function to check notebook cell synchronization."""
     template_path = "models/model_development_template.ipynb"
     test_path = "models/model_development_template_copy.ipynb"
-    python_cells_to_check = [1, 2, 4]  # Python cell 1, 2, and 4 (1-based numbering)
-    expected_python_cell_count = 4  # Both notebooks should have exactly 4 Python cells
+    python_cells_to_check = [1, 3]  # Python cell 1 and 3 (1-based numbering)
+    expected_python_cell_count = 3  # Both notebooks should have exactly 3 Python cells
 
     print("🔍 Checking notebook Python cell synchronization...")
     print(f"Template: {template_path}")
@@ -195,7 +195,7 @@ def main():
 
     if results["all_identical"]:
         print("🎉 SUCCESS: All validations passed!")
-        print("   - Both notebooks have exactly 4 Python cells")
+        print("   - Both notebooks have exactly 3 Python cells")
         print("   - All specified Python cells are strictly identical")
     else:
         print("❌ VALIDATION FAILURES:")

@@ -32,41 +32,24 @@ This is your starting point for the Stacking Sats Tournament, hosted by Trilemma
 
 ## 📚 Tutorial Outline
 
-1. [`Intro.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/tutorials/1.%20Intro.ipynb) – Motivating the Problem
-2. [`Problem_Statement.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/tutorials/2.%20Problem%20Statement.ipynb) – Understanding the Challenge
-3. [`Problem_Statement_Deep_Dive.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/tutorials/3.%20Problem%20Statement%20Deep%20Dive.ipynb) _(Optional)_
-4. [`Bring_Your_Own_Data`](https://github.com/hypertrial/stacking_sats_pipeline/blob/main/stacking_sats_pipeline/data/CONTRIBUTE.md) – Phase 1: Prerequisites
-
-**Coming Soon (Phase 2 – July 16 Launch):**
-
-5. [`Virtual_Env_Setup.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/tutorials/4.%20Virtual%20Env%20Setup.ipynb) – Environment Setup and Dependencies
-6. [`model_development_template.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/model-development/model_development_template.ipynb) – Building Your Bitcoin Accumulation Strategy
-7. `Strategy Submission Form (TBD)` – Finalizing and Uploading Your Submission
+1. [`tutorials/1. Intro.ipynb`](./tutorials/1.%20Intro.ipynb) – Motivating the Problem
+2. [`tutorials/2. Problem Statement.ipynb`](./tutorials/2.%20Problem%20Statement.ipynb) – Understanding the Challenge
+3. [`tutorials/3. Problem Statement Deep Dive.ipynb`](./tutorials/3.%20Problem%20Statement%20Deep%20Dive.ipynb) _(Optional)_
+4. [`tutorials/4. Virtual Env Setup.ipynb`](./tutorials/4.%20Virtual%20Env%20Setup.ipynb) – Environment Setup and Dependencies
+5. [`model-development/model_development_template.ipynb`](./model-development/model_development_template.ipynb) – Building Your Bitcoin Accumulation Strategy
 
 ---
 
 ## 📅 Timeline
 
-| Phase               | Start Date   | End Date     |
-| ------------------- | ------------ | ------------ |
-| Prerequisites       | Jun 28, 2025 | Jul 16, 2025 |
-| Strategy Submission | Jul 16, 2025 | Jul 25, 2025 |
+| Phase                            | Start Date                 | End Date                   |
+| -------------------------------- | -------------------------- | -------------------------- |
+| Registration & Model Development | Jul 16, 2025 @ 11:59pm UTC | Jul 25, 2025 @ 11:59pm UTC |
+| Model Submission                 | Jul 25, 2025 @ 11:59pm UTC | Jul 31, 2025 @ 11:59pm UTC |
 
 ---
 
-## 🧩 Phase 1: Prerequisites
-
-### 🎯 Objective
-
-Learn about Stacking Sats and contribute to our data lake. Check out the [pipeline repo](https://github.com/hypertrial/stacking_sats_pipeline) to get started.
-
-Phase 1 isn’t a competition; it's a chance to learn and contribute to an open source repo that will support thousands of tournament participants and capstone teams from top graduate STEM programs. See our [partners page](https://www.hypertrial.ai/partners) for a list of schools we collaborate with.
-
-_Phase 1 is optional, but we highly recommend contributing before jumping into Phase 2._
-
----
-
-## 🧩 Phase 2: Strategy Submission
+## 🧩 Strategy Submission
 
 ### 🎯 Objective
 
@@ -86,29 +69,15 @@ Submit the best-performing **Bitcoin stacking model** on [Hypertrial.ai](https:/
 - `London School of Economics and Political Science (LSE)`
 - `Columbia University`
 
-### 🛠️ Environment Setup
+### 🛠️ Getting Started
 
-Before you begin developing your strategy, you'll need to set up a Python virtual environment and install JupyterLab:
+Before you begin developing your strategy, please work through the tutorials in order:
 
-#### 1. Create Virtual Environment
+1. Start with the **Introduction** tutorial to understand the problem
+2. Review the **Problem Statement** tutorials to grasp the challenge
+3. Follow the **Virtual Environment Setup** tutorial to prepare your development environment
+4. Use the **Model Development Template** to build your Bitcoin stacking strategy
 
-```bash
-python3 -m venv venv
-```
+For detailed environment setup instructions, see [`tutorials/4. Virtual Env Setup.ipynb`](./tutorials/4.%20Virtual%20Env%20Setup.ipynb).
 
-#### 2. Activate Virtual Environment & Install JupyterLab
-
-```bash
-source venv/bin/activate
-pip install --upgrade pip
-pip install jupyterlab
-```
-
-#### 3. Launch JupyterLab
-
-```bash
-source venv/bin/activate
-jupyter lab
-```
-
-JupyterLab will open in your browser (typically at `http://localhost:8888`). You can now access and work with the tutorial notebooks and develop your Bitcoin stacking strategy.
+---
