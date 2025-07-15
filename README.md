@@ -40,7 +40,7 @@ This is your starting point for the Stacking Sats Tournament, hosted by Trilemma
 **Coming Soon (Phase 2 – July 16 Launch):**
 
 5. [`Virtual_Env_Setup.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/tutorials/4.%20Virtual%20Env%20Setup.ipynb) – Environment Setup and Dependencies
-6. `Strategy_Development.ipynb` – Building Your Bitcoin Accumulation Strategy
+6. [`model_development_template.ipynb`](https://github.com/TrilemmaFoundation/stacking-sats-tournament-mstr-2025/blob/main/model-development/model_development_template.ipynb) – Building Your Bitcoin Accumulation Strategy
 7. `Strategy_Submission.ipynb` – Finalizing and Uploading Your Submission
 
 ---
