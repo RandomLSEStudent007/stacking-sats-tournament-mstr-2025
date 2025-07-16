@@ -22,6 +22,10 @@ Co-hosted by [Strategy](https://www.strategy.com/) (Nasdaq: MSTR) and [Trilemma 
 
 **Hosted on [Hypertrial.ai](https://www.hypertrial.ai/bitcoin-arena/challenge/bitcoin)**
 
+**🎬 Watch the Short on YouTube:**
+
+[![Watch the video](https://img.youtube.com/vi/tE7GJpbGotg/maxresdefault.jpg)](https://www.youtube.com/watch?v=tE7GJpbGotg)
+
 ### Tournament Overview
 
 ---
