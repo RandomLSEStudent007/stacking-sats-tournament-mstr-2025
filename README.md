@@ -24,7 +24,7 @@ Co-hosted by [Strategy](https://www.strategy.com/) (Nasdaq: MSTR) and [Trilemma 
 
 **🎬 Watch the Short on YouTube:**
 
-[![Watch the video](https://img.youtube.com/vi/tE7GJpbGotg/maxresdefault.jpg)](https://www.youtube.com/watch?v=tE7GJpbGotg)
+[![Watch the Short](https://img.youtube.com/vi/tE7GJpbGotg/0.jpg)](https://youtube.com/shorts/tE7GJpbGotg)
 
 ### Tournament Overview
 
