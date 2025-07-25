@@ -17,7 +17,7 @@ Co-hosted by [Strategy](https://www.strategy.com/) (Nasdaq: MSTR) and the [Trile
   </tr>
 </table>
 
-> A global, free, and remote tournament advancing Bitcoin insight.
+> A global, free, and remote tournament advancing Bitcoin insight. <br>
 > Build data-driven accumulation strategies that outperform DCA.
 
 **🚀 Hosted on [Hypertrial.ai](https://www.hypertrial.ai/)**
