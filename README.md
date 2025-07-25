@@ -106,5 +106,5 @@ This repo is your complete guide—goals, timelines, tutorials, and submission i
 
 ## 🛠️ Getting Started
 
-✅ **Register** via the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScCv50wbM2_d49-9byMRdhoNzQMBzMW8-a5eA8VpzvtMw8BJg/viewform?usp=header)
+✅ **Register** via the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScCv50wbM2_d49-9byMRdhoNzQMBzMW8-a5eA8VpzvtMw8BJg/viewform?usp=header) <br>
 💬 **Join** the [Discord](https://discord.gg/9CrmawQVRZ)
