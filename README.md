@@ -74,6 +74,8 @@ This repo is your complete guide—goals, timelines, tutorials, and submission i
 
 * [`Educational Notebook Outline.ipynb`](./educational-notebook/Educational%20Notebook%20Outline.ipynb) — Explain your model in an engaging, accessible way
 
+---
+
 ## 🏆 Prizes – \$3,800+ USD
 
 * 🟢 **Participation Giveaway** – \$1,000 USD
