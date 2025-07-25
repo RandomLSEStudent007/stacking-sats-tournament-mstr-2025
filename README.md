@@ -46,10 +46,10 @@ This is your starting point for the Stacking Sats Tournament, hosted by Trilemma
 
 ## 📅 Timeline
 
-| Phase                            | Start Date                 | End Date                   |
-| -------------------------------- | -------------------------- | -------------------------- |
-| Registration & Model Development | Jul 16, 2025 @ 11:59pm UTC | Jul 25, 2025 @ 11:59pm UTC |
-| Model Submission                 | Jul 25, 2025 @ 11:59pm UTC | Jul 31, 2025 @ 11:59pm UTC |
+| **Phase**                          | **Start**                  | **End**                    |
+|-----------------------------------|----------------------------|----------------------------|
+| Registration & Model Development  | July 16, 2025 @ 11:59 PM UTC | August 4, 2025 @ 11:59 PM UTC |
+| Submission Window (Model + Notebook) | August 4, 2025 @ 11:59 PM UTC | August 8, 2025 @ 11:59 PM UTC |
 
 ---
 
@@ -59,9 +59,19 @@ This is your starting point for the Stacking Sats Tournament, hosted by Trilemma
 
 Submit the best-performing **Bitcoin stacking model** on [Hypertrial.ai](https://hypertrial.ai)
 
-### 🏆 Confirmed Prize
+### 🏆 Competition Prizes $3,800+ USD
 
-- **1 million sats**
+- **Participation Giveaway**: $1,000 USD  
+  Random selection from teams that have completed all participation criteria.
+
+- **Top Model Score Prize**: $1,000 USD  
+  Team with the top model score that satisfies all participation criteria.
+
+- **Best Python Notebook Prize**: $1,000 USD  
+  Team with the best educational notebook that satisfies all participation criteria.
+
+- **[Hypertrial Academy](https://www.hypertrial.ai/academy) Scholarship**: $800 USD / Team Member  
+  Random selection from teams that have completed all participation criteria.
 
 ### 🎓 Confirmed Participation to Date
 
