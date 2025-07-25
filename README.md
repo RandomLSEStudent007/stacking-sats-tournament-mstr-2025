@@ -20,7 +20,7 @@ Co-hosted by [Strategy](https://www.strategy.com/) (Nasdaq: MSTR) and [Trilemma 
 > A global, free, and remote tournament where talent competes to push the frontier of Bitcoin insight.
 > Participants compete by building data-driven models that beat naive DCA across a fixed time and budget.
 
-**Hosted on [Hypertrial.ai](https://www.hypertrial.ai/bitcoin-arena/challenge/bitcoin)**
+**Hosted on [Hypertrial.ai](https://www.hypertrial.ai/)**
 
 **🎬 Watch the Short on YouTube:**
 
