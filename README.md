@@ -99,6 +99,7 @@ This repo is your complete guide—goals, timelines, tutorials, and submission i
 * UC San Diego (UCSD)
 * New York University (NYU)
 * UC Davis
+* UC Irvine
 * London School of Economics (LSE)
 * Columbia University
 
