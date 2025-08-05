@@ -94,7 +94,7 @@ This repo is your complete guide—goals, timelines, tutorials, and submission i
 
 ## 🎓 Participating Universities
 
-* Birla Institute of Technology And Science - Pilani
+* Birla Institute of Technology and Science, Pilani
 * Columbia University
 * Dartmouth College
 * Gautam Buddha University
