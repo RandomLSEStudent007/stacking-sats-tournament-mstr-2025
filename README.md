@@ -39,12 +39,12 @@ This repo is your complete guide—goals, timelines, tutorials, and submission i
 
 ## 📅 Timeline
 
-> 🟢 **Now Open** – Join before **August 4, 2025 @ 11:59 PM UTC**
+> 🟢 **Submission Window Now Open** – Submit by **August 8, 2025 @ 11:59 PM UTC**
 
 | **Phase**                            | **Start**                     | **End**                       | **Status**  |
 | ------------------------------------ | ----------------------------- | ----------------------------- | ----------- |
-| Registration & Model Development     | July 16, 2025 @ 11:59 PM UTC  | August 4, 2025 @ 11:59 PM UTC | 🟢 Open Now |
-| Submission Window (Model + Notebook) | August 4, 2025 @ 11:59 PM UTC | August 8, 2025 @ 11:59 PM UTC | ⏳ Upcoming  |
+| Registration & Model Development     | July 16, 2025 @ 11:59 PM UTC  | August 4, 2025 @ 11:59 PM UTC | ✅ Closed    |
+| Submission Window (Model + Notebook) | August 4, 2025 @ 11:59 PM UTC | August 8, 2025 @ 11:59 PM UTC | 🟢 Open Now |
 
 ---
 
@@ -107,5 +107,7 @@ This repo is your complete guide—goals, timelines, tutorials, and submission i
 
 ## 🛠️ Getting Started
 
-- ✅ **Register** via the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScCv50wbM2_d49-9byMRdhoNzQMBzMW8-a5eA8VpzvtMw8BJg/viewform?usp=header) <br>
-- 💬 **Join** the [Discord](https://discord.gg/9CrmawQVRZ)
+* ✅ **Registration is now closed**
+* 🧠 **Already registered?** Submit your model + notebook before **August 8, 2025 @ 11:59 PM UTC**
+* 💬 **Join** the [Discord](https://discord.gg/9CrmawQVRZ) to ask questions, connect with others, and get support
+
