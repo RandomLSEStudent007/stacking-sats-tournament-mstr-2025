@@ -94,14 +94,24 @@ This repo is your complete guide—goals, timelines, tutorials, and submission i
 
 ## 🎓 Participating Universities
 
-* University of British Columbia (UBC)
+* BITS Pilani
+* Columbia University
+* Dartmouth College
+* Gautam Buddha University
 * Georgia Institute of Technology
-* UC San Diego (UCSD)
+* Indian Institute of Technology BHU Varanasi
+* Indian Institute of Technology Roorkee
+* London School of Economics and Political Science (LSE)
+* Narsee Monjee Institute of Management Studies
 * New York University (NYU)
+* Stevens Institute of Technology
 * UC Davis
 * UC Irvine
-* London School of Economics (LSE)
-* Columbia University
+* UC San Diego (UCSD)
+* University of British Columbia (UBC)
+* University of Illinois at Urbana-Champaign
+* University of Jaffna
+* University of Technology Sydney
 
 ---
 
