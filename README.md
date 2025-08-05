@@ -117,7 +117,7 @@ This repo is your complete guide—goals, timelines, tutorials, and submission i
 
 ## 🚀 Submit Your Work
 
-📤 **Submission Form Now Open**
+📤 **Submission Form Now Open** <br> 
 If you registered, submit your model + notebook by **August 8, 2025 @ 11:59 PM UTC**:
 👉 [**Submit Here**](https://docs.google.com/forms/d/e/1FAIpQLSeFuYGkvXI1WPvvDEhQNlKQKeHDrfbLtL5vbPJ8yFyp7wn1_A/viewform?usp=header)
 
